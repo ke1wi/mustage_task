@@ -1,0 +1,6 @@
+[submodule "bot"]
+	path = bot
+	url = ./bot
+[submodule "server"]
+	path = server
+	url = ./server
