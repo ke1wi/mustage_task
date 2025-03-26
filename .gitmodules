@@ -1,6 +1,6 @@
 [submodule "bot"]
 	path = bot
-	url = ./bot
+	url = https://github.com/ke1wi/mustage_bot
 [submodule "server"]
 	path = server
-	url = ./server
+	url = https://github.com/ke1wi/mustage_server_fastapi
